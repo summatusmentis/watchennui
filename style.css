@@ -10,3 +10,16 @@ body {
     min-width: 80% !important;
     min-height: 80% !important;
 }
+
+#ennui {
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #333;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32pt;
+}
