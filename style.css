@@ -2,6 +2,7 @@
     min-width: 100% !important;
     min-height: 100% !important;
     background-image: url('./watchennui.jpg');
-    background-attachment: 'fixed';
-    display: 'block';
+    background-size: auto;
+    background-repeat: no-repeat;
+    display: block;
 }
