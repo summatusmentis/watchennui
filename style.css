@@ -2,5 +2,5 @@ body {
     min-width: 100% !important;
     min-height: 100% !important;
     background-image: url('./watchennui.jpg');
-    background-size: auto;
+    background-size: contain;
 }
